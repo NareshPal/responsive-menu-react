@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NareshPal/responsive-menu-react/static/css/main.8cc34ee1.chunk.css",
+    "main.js": "/NareshPal/responsive-menu-react/static/js/main.f07e3f31.chunk.js",
+    "main.js.map": "/NareshPal/responsive-menu-react/static/js/main.f07e3f31.chunk.js.map",
+    "runtime-main.js": "/NareshPal/responsive-menu-react/static/js/runtime-main.bcc1a951.js",
+    "runtime-main.js.map": "/NareshPal/responsive-menu-react/static/js/runtime-main.bcc1a951.js.map",
+    "static/js/2.439868dc.chunk.js": "/NareshPal/responsive-menu-react/static/js/2.439868dc.chunk.js",
+    "static/js/2.439868dc.chunk.js.map": "/NareshPal/responsive-menu-react/static/js/2.439868dc.chunk.js.map",
+    "static/js/3.46c5de49.chunk.js": "/NareshPal/responsive-menu-react/static/js/3.46c5de49.chunk.js",
+    "static/js/3.46c5de49.chunk.js.map": "/NareshPal/responsive-menu-react/static/js/3.46c5de49.chunk.js.map",
+    "index.html": "/NareshPal/responsive-menu-react/index.html",
+    "static/css/main.8cc34ee1.chunk.css.map": "/NareshPal/responsive-menu-react/static/css/main.8cc34ee1.chunk.css.map",
+    "static/js/2.439868dc.chunk.js.LICENSE.txt": "/NareshPal/responsive-menu-react/static/js/2.439868dc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcc1a951.js",
+    "static/js/2.439868dc.chunk.js",
+    "static/css/main.8cc34ee1.chunk.css",
+    "static/js/main.f07e3f31.chunk.js"
+  ]
+}
